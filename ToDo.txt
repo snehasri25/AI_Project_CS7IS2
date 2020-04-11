@@ -1,1 +1,39 @@
-Weekly tasks for each team member to be mentioned here
+Meetings and TO DO lists:
+
+First Meeting: 20th March, 2020
+Agenda: Finalize the algorithms 
+Tasks to do:
+All members - worked on implementing Deep Q Learning Algorithm
+
+Second Meeting: 28th March, 2020
+Agenda: Discussion of implementation of other algorithms 
+Tasks to do:
+Shruti and Anusha - Implementation of Expected SARSA
+Sneha and Divyanshu - Implementation of Double DQN
+
+Third Meeting: 31st March, 2020
+Agenda: Discussion of the progress
+Tasks to do: 
+Shruti - Implementation of Expected SARSA
+Sneha - Implementation of Double DQN
+Divyanshu - Start working on Visualization
+Anusha - Code editing of DQN
+
+Fourth Meeting: 5th April, 2020
+Agenda: Solving issues related to implementation of algorithms
+Tasks to do:
+Divyanshu - Implementation of visualization 
+Shruti - Work on report
+Sneha - Work on report
+Anusha - Work on report
+
+Fifth Meeting: 9th April, 2020
+Agenda: Discussion of progress in report
+Shruti - Work on report
+Sneha - Work on report
+Divyanshu - Work on report
+Anusha - Work on report
+
+
+
+
